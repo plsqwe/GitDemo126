@@ -1,10 +1,10 @@
 package test;
 
-public class Test1 {
+public class Test2 {
 	public static void main(String[] args) {
 	
 		
-		int score = 75; 
+		int score = 75;
 		
 		char grade = ' ';
 		
