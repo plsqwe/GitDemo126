@@ -3,10 +3,10 @@ package test;
 public class Test1 {
 	public static void main(String[] args) {
 	
-		int score = 100; 
+		
+		int score = 75; 
 		
 		char grade = ' ';
-		String branch_name = "BranchLjj";
 		
 		if ((score > 100) || (score < 5)) {
 			System.out.println(score + "은(는)잘못된 점수입니다.");
@@ -29,9 +29,7 @@ public class Test1 {
 		}
 	
 		System.out.println("점수 : " + score + "," + " 학점 : " + grade );
-		System.out.println("branch명 : " + branch_name);
 		} //else
-
 
 	}
 }
